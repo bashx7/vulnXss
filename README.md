@@ -1,7 +1,8 @@
 # VulnXSS — Cross-Site Scripting Training Laboratory
 
 A modern, web-based **XSS Training Laboratory** designed for the cybersecurity community. VulnXSS provides realistic, intentionally vulnerable web applications where security professionals, penetration testers, and developers can learn and practice Cross-Site Scripting (XSS) discovery, analysis, and exploitation in a controlled educational environment.
-**Develop By Salman aka Bashx7**
+
+### Develop By Salman aka Bashx7**
 **Linkedin**: [Linkedin Profile](https://www.linkedin.com/in/salman-ashlor/)
 ---
 
