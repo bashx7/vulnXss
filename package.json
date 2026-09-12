@@ -1,0 +1,17 @@
+{
+  "name": "vulnxss",
+  "version": "1.0.0",
+  "description": "VulnXSS — Professional Cross-Site Scripting Educational Lab Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node scripts/test-endpoints.js"
+  },
+  "keywords": ["xss", "cybersecurity", "training", "education"],
+  "author": "VulnXSS Team",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
